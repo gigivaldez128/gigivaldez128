@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, Nice to see you.</h1>
 
-Im **Gigi Valdez** also known as **gigivaldez**, and I'm a **top GitHub committer** with 3 years of expertise in **Security and Web development**. Programming is lots of fun and extraordinarily useful. It allows you to be creative and also opens up a wide range of new careers for you. If you want to learn how to program, read the tutorial below for an explanation of where to go and what to study.<br><br>
+Im **Gigi Valdez** also known as **Gigi*, and I'm a **top GitHub committer** with 3 years of expertise in **Security and Web development**. Programming is lots of fun and extraordinarily useful. It allows you to be creative and also opens up a wide range of new careers for you. If you want to learn how to program, read the tutorial below for an explanation of where to go and what to study.<br><br>
 <a href="https://www.youtube.com/gigivaldez"><img src="https://camo.githubusercontent.com/d79c5549652f9c7690992eb49571d216a70a480681561cbd93bfbfc77c491e54/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f596f75547562652d4646303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d796f7574756265266c6f676f436f6c6f723d7768697465"></a><img><br><br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Gigi+Valdez%C3%B1as%2C+21+years+old;Front-end+Web+Developer;Cyber+Security+Specialist)](https://git.io/typing-svg)
 
@@ -12,9 +12,9 @@ Im **Gigi Valdez** also known as **gigivaldez**, and I'm a **top GitHub committe
 
 ### Current Status Quo:
 
-- 💼 Full-Stack <strong>React.js/ Node.js Developer</strong>.
-- 🔍 I’m looking for connections in <strong>Web Development and Cyber Security</strong> Industry.
-- 💬 Feel free to discuss with me about <strong>Cyber Security, Web Development, NFT Projects</strong>
+- 💼 front-end <strong>React.python/ Node.python Developer</strong>.
+- 🔍 I’m looking for connections in <strong>Web Development</strong> Industry.
+- 💬 Feel free to discuss with me about <strong Web Development, NFT Projects</strong>
 - 👀 See my [Personal Portfolio](https://gigivaldez128.github.io/portfolio/) to get more info
 
 ### Tools I work upon : 🛠
