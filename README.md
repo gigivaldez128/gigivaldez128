@@ -26,7 +26,7 @@ Im **Gigi Valdez** also known as **GIGI** not **GEGE**, and I'm a **top GitHub c
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carlcastanas&theme=buefy-dark&date_format=M%20j%5B%2C%20Y%5D" />
 </a><br><br>
 <a href="https://www.linkedin.com/in/gigivaldez128/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlcastanas&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gigivaldez&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
 </a>
 
 ### Github Activity: 🔥 
