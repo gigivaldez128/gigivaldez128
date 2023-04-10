@@ -13,7 +13,7 @@ Im **Gigi Valdez** also known as **GIGI** not **GEGE**, and I'm not **top GitHub
 ### Current Status Quo:
 
 - 💼 Full-Stack <strong>React.js/ Node.js Developer</strong>.
-- 🔍 I’m looking for connections in <strong>Web Development and Cyber Security</strong> Industry.
+- 🔍 I’m looking for connections in <strong>Web Development and Software Engineer</strong> Industry.
 - 💬 Feel free to discuss with me about <strong>Cyber Security, Web Development, NFT Projects</strong>
 - 👀 See my [Personal Portfolio](https://gigivaldez128.github.io/portfolio/) to get more info
 
