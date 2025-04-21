@@ -8,7 +8,7 @@ Im **Gigi Valdez** also known as **GIGI** not **GEGE**, and I'm not **top GitHub
 
 ### How to reach me: 
 <a href="mailto: gigivaldez128@gmail.com">
-<img src="https://img.shields.io/badge/-gigivaldez55%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>  <a  href="https://www.instagram.com/ionictech1/">   <img src="https://img.shields.io/badge/@gigivaldez128-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/gigivaldez128/"><img src="https://img.shields.io/badge/gigivaldez-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  <a  href="https://www.carlcastanas.netlify.app/"><img src="https://img.shields.io/badge/gigivalde128.github.io-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
+<img src="https://img.shields.io/badge/-gigivaldez55%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>  <a  href="https://www.instagram.com/ionictech1/">   <img src="https://img.shields.io/badge/@gigivaldez128-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/gigivaldez128/"><img src="https://img.shields.io/badge/gigivaldez-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  <a  href="https://www.gigivaldez.netlify.app/"><img src="https://img.shields.io/badge/gigivalde128.github.io-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
 
 ### Current Status Quo:
 
@@ -23,7 +23,7 @@ Im **Gigi Valdez** also known as **GIGI** not **GEGE**, and I'm not **top GitHub
 
 ### GitHub Highlights: :blossom:
 <a href="https://www.linkedin.com/in/gigivaldez128/">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carlcastanas&theme=buefy-dark&date_format=M%20j%5B%2C%20Y%5D" />
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gigivaldez&theme=buefy-dark&date_format=M%20j%5B%2C%20Y%5D" />
 </a><br><br>
 <a href="https://www.linkedin.com/in/gigivaldez128/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gigivaldez&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
