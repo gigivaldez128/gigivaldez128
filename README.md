@@ -14,7 +14,7 @@ Im **Gigi Valdez** also known as **GIGI** not **GEGE**, and I'm not **top GitHub
 
 - 💼 Full-Stack <strong>React.js/ Node.js Developer</strong>.
 - 🔍 I’m looking for connections in <strong>Web Development and Software Engineer</strong> Industry.
-- 💬 Feel free to discuss with me about <strong>Cyber Security, Web Development, NFT Projects</strong>
+- 💬 Feel free to discuss with me about <strong>Full Stack Developer, NFT Projects</strong>
 - 👀 See my [Personal Portfolio](https://gigivaldez128.github.io/portfolio/) to get more info
 
 ### Tools I work upon : 🛠
