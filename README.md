@@ -24,7 +24,7 @@ const gigi = {
   alias    : "GIGI  ←  (not GEGE 😅)",
   age      : 23,
   role     : "Full-Stack Developer",
-  stack    : ["React.js", "Node.js", "PHP", "MongoDB"],
+  stack    : ["React.js", "Node.js", "PHP", "Supabase", "MongoDB"],
   lookingFor: "Web Dev & SWE connections",
   talkTo   : ["Full Stack Dev", "NFT Projects"],
   portfolio: "gigivaldez128.github.io/portfolio",
